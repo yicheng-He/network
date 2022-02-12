@@ -1,14 +1,15 @@
-# Books on IPv6
+# IPv6 startup for newbees
 
-| [![img]() PDF[Understanding_IPv6_3rd_Edition.pdf]() | [![img]]() PDF[IPv6_Essentials_3rd_Edition.pdf]() |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+## Books on IPv6
 
-# Reading Steps
+- [Understanding_IPv6_3rd_Edition.pdf](books/Understanding_IPv6_3rd_Edition.pdf)
+- [IPv6_Essentials_3rd_Edition.pdf](books/IPv6_Essentials_3rd_Edition.pdf)
 
-## *Understanding IPv6*
+## Reading Steps
 
-1. Must read of *Understanding IPv6*:
+### *Understanding IPv6*
+
+1. Must read:
 
 - Chapter 1, Introduction to IPv6
 - Chapter 3, IPv6 Addressing
@@ -17,7 +18,7 @@
 - Chapter 6, Neighbor Discovery
 - Chapter 8, Addressing Autoconfiguration
 
-2. Further reading:
+2. Further read:
 
 - Chapter 2, IPv6 Protocol for Windows
 - Tunnel related
@@ -28,17 +29,13 @@
 - Chapter 10, IPv6 Routing
 - Chapter 7, Multicast Listener Discovery and MLD Version 2
 
-3. Others
-
-## *IPv6 Essentials*
+### *IPv6 Essentials*
 
 The main part is similar to other books, read the first two chapters more impression.
-
 - Chapter 1, Why IPv6?
 - Chapter 2, IPv6 Addressing
 
-# Practices
-
+## Practices
 Several methods:
 
 - Run Linux VMs locally using virtual box
